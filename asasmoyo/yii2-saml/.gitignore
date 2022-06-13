@@ -1,0 +1,8 @@
+# Editor configuration
+nbproject
+.tags
+.tags1
+.idea
+
+/vendor
+/composer.lock
